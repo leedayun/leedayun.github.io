@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Team Post
+author: Leedayun
 image: https://github.com/chrisrhymes/mere-blog-theme/blob/master/img/home.jpg?raw=true
 ---
 ##Team Post
