@@ -5,13 +5,11 @@ author: Leedayun
 image: https://sloanreview.mit.edu/wp-content/uploads/2020/02/GEN-Singer-Health-Care-Team-Teamwork-1290x860-1.jpg
 ---
 
+팀 프로젝트 진행상황과 프로젝트 분석 및 정리
 
-Team Post
 
 
-#팀 진행 상황
-
-프로젝트 최종 선정: Building a Camera Customizing Service
+최종 선정 프로젝트 : Building a Camera Customizing Service
 
 > 오픈소스 소개
 
