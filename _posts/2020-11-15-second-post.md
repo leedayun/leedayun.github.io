@@ -5,11 +5,14 @@ author: LEE DA YUN
 image: https://steelcase-res.cloudinary.com/image/upload/c_fill,dpr_auto,q_70,h_600,w_1200/v1583265056/www.steelcase.com/2020/03/03/20-0136082-CROP.jpg
 intro: Personal contribution & project improvement direction
 ---
-맡은 역할: 개발 부문의 색 Customization, 깃헙 관리의 문서화 작업
+개인 기여도와 프로젝트 개선 방향성에 대하여
+
+제가 맡은 역할은 개발 부문의 색 Customization과 깃헙 관리의 문서화 작업입니다.
 
 
+> Colour Custimization
 
- - 먼저 버튼 색 Custimaziation 부분에서, 현재 색이 한정되어 있습니다. 인스타그램 컨셉에 맞춰 빌딩된 서비스이기 때문에 인스타그램 카메라 아이콘에 맞게 Custimazation할 수 있습니다.
+먼저 버튼 색 Custimaziation 부분에서, 현재 색이 한정되어 있습니다. 인스타그램 컨셉에 맞춰 빌딩된 서비스이기 때문에 인스타그램 카메라 아이콘에 맞게 Custimazation할 수 있습니다.
 
 따라서 사용자가 색상을 선택하여 커스텀할 수 있도록 만들거나 다양한 field의 색상을 제공한다면 Custimiazation에 더 적합한 서비스를 만들 수 있을 것이라고 생각했습니다.
 
@@ -21,7 +24,10 @@ intro: Personal contribution & project improvement direction
 
 
 
+> Documentation
 
- - 문서화 작업에서는 팀원들이 기여한 부분이나 작성한 Guideline을 문서로 작업하여 포스팅 할 예정입니다.
+문서화 작업에서는 팀원들이 기여한 부분이나 작성한 Guideline을 문서로 작업하여 포스팅 할 예정입니다.
+
+정적페이지에 올리고 깃헙을 관리하는 부분은 다른 팀원들이 맡았기 때문에, 팀원 조현수님과 매주 기여도와 진행상황을 문서화하여 다른 팀원분들께 전달 할 예정입니다.
  
  
