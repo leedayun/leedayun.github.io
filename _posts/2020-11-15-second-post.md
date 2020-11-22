@@ -3,9 +3,11 @@ layout: post
 title: Individual Contribution
 author: LEE DA YUN
 image: https://steelcase-res.cloudinary.com/image/upload/c_fill,dpr_auto,q_70,h_600,w_1200/v1583265056/www.steelcase.com/2020/03/03/20-0136082-CROP.jpg
-intro: 개인 기여방식과 프로젝트 개선 방향
+intro: Personal contribution project improvement direction
 ---
-제가 맡은 역할은 개발 부문에서 버튼 색 Customization, 그리고 깃헙 관리에서 문서화 작업입니다.
+맡은 역할: 개발 부문의 색 Customization, 깃헙 관리의 문서화 작업
+
+
 
  - 먼저 버튼 색 Custimaziation 부분에서, 현재 색이 한정되어 있습니다. 인스타그램 컨셉에 맞춰 빌딩된 서비스이기 때문에 인스타그램 카메라 아이콘에 맞게 Custimazation할 수 있습니다.
 
