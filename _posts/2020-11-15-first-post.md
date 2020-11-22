@@ -4,6 +4,8 @@ title: Team Post
 author: Leedayun
 image: https://github.com/chrisrhymes/mere-blog-theme/blob/master/img/home.jpg?raw=true
 ---
+
+image: https://www.inlea.com/web/wp-content/uploads/2017/09/Team-Work-Problems-Inlea-e1504472827418.jpg
 ##Team Post
 
 
