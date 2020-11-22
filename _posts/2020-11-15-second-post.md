@@ -3,7 +3,7 @@ layout: post
 title: Individual Contribution
 author: LEE DA YUN
 image: https://steelcase-res.cloudinary.com/image/upload/c_fill,dpr_auto,q_70,h_600,w_1200/v1583265056/www.steelcase.com/2020/03/03/20-0136082-CROP.jpg
-intro: Personal contribution project improvement direction
+intro: Personal contribution & project improvement direction
 ---
 맡은 역할: 개발 부문의 색 Customization, 깃헙 관리의 문서화 작업
 
