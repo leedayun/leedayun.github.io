@@ -6,10 +6,10 @@ image: https://github.com/chrisrhymes/mere-blog-theme/blob/master/img/home.jpg?r
 ---
 
 image: https://www.inlea.com/web/wp-content/uploads/2017/09/Team-Work-Problems-Inlea-e1504472827418.jpg
-##Team Post
+Team Post
 
 
-팀 진행 상황
+#팀 진행 상황
 프로젝트 최종 선정: Building a Camera Customizing Service
 
 - 오픈소스 소개
@@ -18,5 +18,19 @@ image: https://www.inlea.com/web/wp-content/uploads/2017/09/Team-Work-Problems-I
 또 촬영 중에도 영상의 길이를 알 수 있다는 장점이 있습니다.
 나아가 여러 가지 메뉴를 만들어 이를 버튼 자체에서 스와이프를 통해 선택할 수 있도록 하는 프로젝트입니다. 
 복잡한 Java코드가 필요하지 않고 xml과 handler을 사용하여 바로 생성이 가능합니다.
+
+- 개인 역할 분담
+회의를 통해 팀원 개인별 역할 및 활동을 정했습니다. 프로젝트에서 팀원 개인별 역할을 크게 <개발>과 <깃헙관리> 부분으로 나누었습니다.
+<개발>
+튜토리얼 작성(작동방식 설명 추가) (1명) - 황준용
+버튼 색 Customization (3명) - 이다윤 오나현 조현수
+Stroke 너비 조절 (2명) - 임지혜 정서연
+이 외의 issue 및 개발 enhancement 진행 (6명) - 전원 참여
+<github 관리>
+*  매주 진행 내용을 [문서화 작업]하여 이를 [깃허브 페이지에 반영]하고 이를 [정리 및 피드백]하는 구조
+문서화 작업 (2명) - 이다윤 조현수
+깃허브 페이지 및 정적페이지 관리(2명) - 오나현 황준용
+최종 정리 및 피드백 (2명) - 임지혜 정서연
+*  git 활용> 개발 과정에서 생길 수 있는 Issue들을 작성하여 PR(Pull Request) 보내고, 각 이슈의 해결에 대해서는 주차별 이슈로 나눠서 위 역할을 반영한 관련 Assignee 지정 및 작업 할당
 
 
