@@ -2,7 +2,7 @@
 layout: post
 title: Team Post
 author: Leedayun
-image: https://www.inlea.com/web/wp-content/uploads/2017/09/Team-Work-Problems-Inlea-e1504472827418.jpg
+image: https://sloanreview.mit.edu/wp-content/uploads/2020/02/GEN-Singer-Health-Care-Team-Teamwork-1290x860-1.jpg
 ---
 
 
